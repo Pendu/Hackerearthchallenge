@@ -8,6 +8,6 @@ In this challenge we provide you with the before and after details of nearly one
 
 Given building details, your task is to build a model that can predict the extent of damage that has been done to a building after an earthquake.
 
-#Link to the challenge
+Link to the challenge with dataset
 
 https://www.hackerearth.com/problem/machine-learning/predict-the-energy-used-612632a9-3f496e7f/
